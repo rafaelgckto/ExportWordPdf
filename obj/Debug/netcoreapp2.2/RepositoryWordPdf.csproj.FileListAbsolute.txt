@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\RepositoryWordPdf\bin\Debug\netcoreapp2.2\RepositoryWordPdf.deps.json
+C:\Users\fic\Desktop\RepositoryWordPdf\bin\Debug\netcoreapp2.2\RepositoryWordPdf.runtimeconfig.json
+C:\Users\fic\Desktop\RepositoryWordPdf\bin\Debug\netcoreapp2.2\RepositoryWordPdf.runtimeconfig.dev.json
+C:\Users\fic\Desktop\RepositoryWordPdf\bin\Debug\netcoreapp2.2\RepositoryWordPdf.dll
+C:\Users\fic\Desktop\RepositoryWordPdf\bin\Debug\netcoreapp2.2\RepositoryWordPdf.pdb
+C:\Users\fic\Desktop\RepositoryWordPdf\obj\Debug\netcoreapp2.2\RepositoryWordPdf.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\RepositoryWordPdf\obj\Debug\netcoreapp2.2\RepositoryWordPdf.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\RepositoryWordPdf\obj\Debug\netcoreapp2.2\RepositoryWordPdf.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\RepositoryWordPdf\obj\Debug\netcoreapp2.2\RepositoryWordPdf.AssemblyInfo.cs
+C:\Users\fic\Desktop\RepositoryWordPdf\obj\Debug\netcoreapp2.2\RepositoryWordPdf.dll
+C:\Users\fic\Desktop\RepositoryWordPdf\obj\Debug\netcoreapp2.2\RepositoryWordPdf.pdb
